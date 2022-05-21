@@ -1,0 +1,2 @@
+this is sample file
+/bin/bash: wq: command not found
